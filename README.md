@@ -6,9 +6,9 @@ movies is a database that allows the user to watch movie trailers in the web bro
 
 ## Usage
 
-1) Install [Python](https://www.python.org/downloads/)
-2) In the Terminal, navigate to the 'movies' directory.
-3) Run `python entertainment_center.py` in the Terminal.
+1. Install [Python](https://www.python.org/downloads/).
+2. In the Terminal, navigate to the 'movies' directory.
+3. Run `python entertainment_center.py` in the Terminal.
 
 ## License
 
